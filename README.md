@@ -2,7 +2,7 @@
 
 This is a [rEFInd](http://www.rodsbooks.com/refind/) theme for those who wish to experience a complete chinese bootleg-style Macbuntu. Great to prank your friends as well.
 
-![rEFInd Bootleg Mac](https://imgur.com/1RAVAxv)
+![rEFInd Bootleg Mac](https://imgur.com/1RAVAxv.png)
 
 ### Usage
 
